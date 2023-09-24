@@ -1,5 +1,5 @@
 
-![AWS- CSA Associate Logo](aws-csa-associate.png)
+
 # AWS CSA 2017 Study Guide
 
 #### The purpose of this guide is to share my notes taken while studying for the AWS CSA re-certification exam. I use the awesome ACloud.guru course & other material listed below which I feel will help certification aspirants for purpose of self-study and quick revision. The course content copyrights are owned by [ACloud Guru Ltd.](https://acloud.guru)
