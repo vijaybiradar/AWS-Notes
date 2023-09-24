@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - CPP.md
+  - SAA.md
+  - OCIFA.md
+
+#remote_theme: "dracula/gh-pages"
+remote_theme: pages-themes/leap-day@v0.2.0
